@@ -4,6 +4,7 @@
   <a href="https://github.com/wagnerbagonza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerbagonza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerbagonza&layout=compact&langs_count=7&theme=dark"/>
+  <img align="right" height="170em" width="170em" alt="Bagonza" src="https://c.tenor.com/YPGTjy3UR2gAAAAC/onionhead-hero-onion.gif">
 </div>
   
 <div style="display: inline_block"><br>
